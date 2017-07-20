@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here is a short message about myself and the "app" that I will be creating.
 
 Things you may want to cover:
 
